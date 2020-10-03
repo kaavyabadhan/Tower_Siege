@@ -70,7 +70,7 @@ function draw() {
  
   textSize(20);
   fill("yellow");
-  text("Drag the Hexagonal Stone and Release it,launch it!",100,30);
+  text("Drag the Hexagonal Stone and Release it,to launch!",100,30);
 
   ground.display();
   stand1.display();
